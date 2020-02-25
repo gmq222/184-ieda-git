@@ -13,6 +13,9 @@ public class ApplicationTests {
     public void contextLoads() {
         System.out.println("这是第一次修改");
         System.out.println();
+        int a = 10;
+        int b = 20;
+        System.out.println(a + b);
     }
 
 }
