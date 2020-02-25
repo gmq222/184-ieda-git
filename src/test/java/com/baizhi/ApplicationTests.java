@@ -12,6 +12,7 @@ public class ApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println("这是第一次修改");
+        System.out.println();
     }
 
 }
